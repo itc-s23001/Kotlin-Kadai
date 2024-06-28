@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.s23001.messageboard
+package jp.ac.itcollege.std.s23001.messageboard
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
